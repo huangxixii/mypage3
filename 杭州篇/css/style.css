@@ -1,0 +1,18 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://pics3.baidu.com/feed/9825bc315c6034a8bd8c3bf6d856b95109237622.jpeg?token=6e086996bb6f7f97201bc2435dc8cd5c&s=AD0AA05C4E7B804D06B879840300508C")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+.top-nav-collapse {
+  background-color: #24355C;
+}
